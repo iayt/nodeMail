@@ -18,7 +18,13 @@
   },
   "homepage": "https://github.com/iayt/nodeMail#readme",
   "dependencies": {
+    "dotenv": "^5.0.1",
     "express": "^4.16.3",
-    "nodemon": "^1.17.3"
+    "googleapis": "^28.1.0",
+    "mongoose": "^5.0.14",
+    "nodemon": "^1.17.3",
+    "passport": "^0.4.0",
+    "passport-google-oauth": "^1.0.0",
+    "request": "^2.85.0"
   }
 }
